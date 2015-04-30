@@ -1,0 +1,13 @@
+C:\Users\Science\Documents\GitHub\HolodeckNBodyUpdated\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Science\Documents\GitHub\HolodeckNBodyUpdated\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Science\Documents\GitHub\HolodeckNBodyUpdated\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Science\Documents\GitHub\HolodeckNBodyUpdated\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Science\Documents\GitHub\HolodeckNBodyUpdated\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Science\Documents\GitHub\HolodeckNBodyUpdated\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Science\Documents\GitHub\HolodeckNBodyUpdated\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Science\Documents\GitHub\HolodeckNBodyUpdated\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Science\Documents\GitHub\HolodeckNBodyUpdated\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Science\Documents\GitHub\HolodeckNBodyUpdated\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\Science\Documents\GitHub\HolodeckNBodyUpdated\obj\Debug\UnityVS.HolodeckNBodyUpdated.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\Science\Documents\GitHub\HolodeckNBodyUpdated\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Science\Documents\GitHub\HolodeckNBodyUpdated\obj\Debug\Assembly-CSharp-firstpass.pdb

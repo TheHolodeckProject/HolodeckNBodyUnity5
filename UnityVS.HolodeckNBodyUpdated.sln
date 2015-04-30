@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.HolodeckNBodyUpdated.CSharp.Plugins", "UnityVS.HolodeckNBodyUpdated.CSharp.Plugins.csproj", "{7DB3867E-78CB-E4FD-4443-D01E08E6C758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.HolodeckNBodyUpdated.CSharp", "UnityVS.HolodeckNBodyUpdated.CSharp.csproj", "{863491ED-C89A-3E01-BD87-E422C5C61C70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.HolodeckNBodyUpdated.CSharp.Editor", "UnityVS.HolodeckNBodyUpdated.CSharp.Editor.csproj", "{77367436-5D53-2A25-00A4-C4AB892EC377}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DB3867E-78CB-E4FD-4443-D01E08E6C758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB3867E-78CB-E4FD-4443-D01E08E6C758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB3867E-78CB-E4FD-4443-D01E08E6C758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB3867E-78CB-E4FD-4443-D01E08E6C758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863491ED-C89A-3E01-BD87-E422C5C61C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863491ED-C89A-3E01-BD87-E422C5C61C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863491ED-C89A-3E01-BD87-E422C5C61C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863491ED-C89A-3E01-BD87-E422C5C61C70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77367436-5D53-2A25-00A4-C4AB892EC377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77367436-5D53-2A25-00A4-C4AB892EC377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77367436-5D53-2A25-00A4-C4AB892EC377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77367436-5D53-2A25-00A4-C4AB892EC377}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
