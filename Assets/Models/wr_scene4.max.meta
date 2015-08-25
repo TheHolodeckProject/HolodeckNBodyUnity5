@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 4eb62b14e0ba95442a7b75ed5baaadd7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: wr_button
+    100002: wr_buttonBaze
+    100004: wr_cctv
+    100006: wr_ceiling
+    100008: wr_ceilingL
+    100010: wr_chair_001
+    100012: wr_cup
+    100014: wr_door
+    100016: wr_floor
+    100018: wr_lattices
+    100020: wr_man
+    100022: wr_notebook
+    100024: wr_pen
+    100026: //RootNode
+    100028: wr_stuff
+    100030: wr_table
+    100032: wr_wallPanels
+    100034: wr_walls
+    100036: wr_washStand
+    100038: BlackScreen
+    100040: metal
+    100042: plugin in
+    100044: Ruchka
+    400000: wr_button
+    400002: wr_buttonBaze
+    400004: wr_cctv
+    400006: wr_ceiling
+    400008: wr_ceilingL
+    400010: wr_chair_001
+    400012: wr_cup
+    400014: wr_door
+    400016: wr_floor
+    400018: wr_lattices
+    400020: wr_man
+    400022: wr_notebook
+    400024: wr_pen
+    400026: //RootNode
+    400028: wr_stuff
+    400030: wr_table
+    400032: wr_wallPanels
+    400034: wr_walls
+    400036: wr_washStand
+    400038: BlackScreen
+    400040: metal
+    400042: plugin in
+    400044: Ruchka
+    2300000: wr_button
+    2300002: wr_buttonBaze
+    2300004: wr_cctv
+    2300006: wr_ceiling
+    2300008: wr_ceilingL
+    2300010: wr_chair_001
+    2300012: wr_cup
+    2300014: wr_door
+    2300016: wr_floor
+    2300018: wr_lattices
+    2300020: wr_man
+    2300022: wr_notebook
+    2300024: wr_pen
+    2300026: wr_stuff
+    2300028: wr_table
+    2300030: wr_wallPanels
+    2300032: wr_walls
+    2300034: wr_washStand
+    2300036: BlackScreen
+    2300038: metal
+    2300040: plugin in
+    2300042: Ruchka
+    3300000: wr_button
+    3300002: wr_buttonBaze
+    3300004: wr_cctv
+    3300006: wr_ceiling
+    3300008: wr_ceilingL
+    3300010: wr_chair_001
+    3300012: wr_cup
+    3300014: wr_door
+    3300016: wr_floor
+    3300018: wr_lattices
+    3300020: wr_man
+    3300022: wr_notebook
+    3300024: wr_pen
+    3300026: wr_stuff
+    3300028: wr_table
+    3300030: wr_wallPanels
+    3300032: wr_walls
+    3300034: wr_washStand
+    3300036: BlackScreen
+    3300038: metal
+    3300040: plugin in
+    3300042: Ruchka
+    4300000: wr_cup
+    4300002: wr_notebook
+    4300004: wr_pen
+    4300006: wr_buttonBaze
+    4300008: wr_button
+    4300010: wr_washStand
+    4300012: wr_wallPanels
+    4300014: wr_walls
+    4300016: wr_cctv
+    4300018: wr_lattices
+    4300020: wr_ceiling
+    4300022: wr_stuff
+    4300024: wr_floor
+    4300026: wr_door
+    4300028: wr_man
+    4300030: wr_table
+    4300032: wr_chair_001
+    4300034: wr_ceilingL
+    4300036: BlackScreen
+    4300038: metal
+    4300040: plugin in
+    4300042: Ruchka
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 40
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
