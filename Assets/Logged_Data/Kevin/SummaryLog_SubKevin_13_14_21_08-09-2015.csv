@@ -1,0 +1,4 @@
+TrialDescriptor,Stimulus,BlobNum,StartPosX,StartPosY,StartPosZ,EndPosX,EndPosY,EndPosZ,StartRotX,StartRotY,StartRotZ,EndRotX,EndRotY,EndRotZ
+Reset#: 0; Best Score: 120,0,BlueSunWithTrail,0.04743059,1.206304,0.1783164,-0.07751989,0.7108761,-0.2512805,0,0,0,0,0,0
+Reset#: 0; Best Score: 120,1,BlueSunWithTrail,0.04743059,1.206304,0.1783164,-0.07751989,0.7108761,-0.2512805,0,0,0,0,0,0
+Reset#: 0; Best Score: 120,2,CenterEyeAnchor,0,1.4,-1,-0.008035906,1.225223,-1.034864,0,0,0,-0.010402,0.196103,-0.9791324

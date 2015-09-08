@@ -215,7 +215,7 @@ public class StimulusManager : MonoBehaviour {
 								labelString = "Click Objects";
 								phase = 0;
 								GameObject.Find ("Logger").GetComponent<Logger> ().Pause ();
-								GameObject.Find ("Logger").GetComponent<Logger> ().FinishTrial (numberOfCompletedTrials);
+								GameObject.Find ("Logger").GetComponent<Logger> ().FinishTrial (numberOfCompletedTrials+"");
 								decideRandomStimuli ();
 								generateRandomPositions ();
 								GameObject.Find ("Logger").GetComponent<Logger> ().GenerateLoggableObjectsList();
